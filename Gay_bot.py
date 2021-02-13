@@ -35,5 +35,5 @@ async def on_message(message):
 
     actionate = discord.Activity(name='Yuri and Lesbian', type=discord.ActivityType.watching)
     await client.change_presence(status=discord.Status.idle, activity=actionate)
-client.run('ODEwMTQyMTcxMzkwODA0MDA5.YCfVsQ.OFcFM4OEskMFtgeTCVLF6HMwo2k')
+client.run('insert bot token here')
 
